@@ -1,0 +1,9 @@
+Questions/Answers:
+
+1. What do I need for the landing page?
+    a. header
+    b. large gif image as main landing background
+    c. Header will show pop up on hover
+
+2. The user will have a profile and settings
+
