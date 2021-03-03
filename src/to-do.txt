@@ -1,4 +1,0 @@
-TODO by order:
-
-1. Header for landing page
-2. Initial landing page dashboard
